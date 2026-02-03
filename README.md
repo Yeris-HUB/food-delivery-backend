@@ -89,7 +89,7 @@ psql -U postgres -d food_delivery -f datos_prueba.sql
 ```
 
 Esto insertará:
-- 1 usuario de prueba (test2@test.com / 123456)
+- 1 usuario de prueba (test@test.com / 123456 - nota: usar mejor el endpoint de registro para crear usuarios nuevos)
 - 5 restaurantes
 - 18 productos
 
